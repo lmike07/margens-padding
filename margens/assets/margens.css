@@ -1,0 +1,21 @@
+h1 {
+    font-size: 30;
+    color: black;
+}
+
+body {
+    margin: 0px;
+}
+
+.first {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+
+.second {
+    width: 250px;
+    height: 250px;
+    background-color: blueviolet;
+    margin-top: 10px;
+}
